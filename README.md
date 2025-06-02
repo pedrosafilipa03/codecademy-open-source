@@ -1,3 +1,3 @@
 # codeacademy-open-source
 
-This is my sanple open source repository! Hooray! 
+This is my sample open source repository! Hooray! 
